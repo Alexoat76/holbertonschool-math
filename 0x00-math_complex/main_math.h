@@ -6,6 +6,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
+#include <float.h>
+#include <math.h>
 
 /*
  * File: main_math.h
