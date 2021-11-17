@@ -35,6 +35,7 @@ Don't forget to fully meet the following development requirements. </div>
 	
 *A `README.md` file, at the root of the folder of the project.</div>
 
+<div style="text-align: justify">
 * There should be no errors and no warnings during compilation. </div>
 
 <div style="text-align: justify">
