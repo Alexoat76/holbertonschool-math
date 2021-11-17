@@ -17,7 +17,7 @@ Don't forget to fully meet the following development requirements. </div>
 
 [![M](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/80px-Google_2015_logo.svg.png)](https://www.google.com/)
 
-[![M](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/70px-Logo_of_YouTube_%282015-2017%29.svg.png)](https://www.youtube.com/results?search_query=linked+lists)
+[![M](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/70px-Logo_of_YouTube_%282015-2017%29.svg.png)](https://www.youtube.com/watch?v=SP-YJe7Vldo)
 
 
 
@@ -33,10 +33,12 @@ Don't forget to fully meet the following development requirements. </div>
 * All your files should end with a new line. </div>
 <div style="text-align: justify">
 	
-*A `README.md` file, at the root of the folder of the project is mandatory. </div>
+*A `README.md` file, at the root of the folder of the project.</div>
+
+* There should be no errors and no warnings during compilation. </div>
 
 <div style="text-align: justify">
-* Your code should use the Betty. It will be checked using</div>
+* Your code should use the Betty style. It will be checked using</div>
 
 `betty-style.pl` and `betty-doc.pl`.</div>
 
