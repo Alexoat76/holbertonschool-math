@@ -45,23 +45,6 @@ Don't forget to fully meet the following development requirements. </div>
 Please visit the [Betty style](https://github.com/holbertonschool/Betty/wiki) for the full specifications of Betty coding and documentation styles.
 
 <div style="text-align: justify">
-* You are not allowed to use global variables. </div>
-<div style="text-align: justify">
-* No more than 5 functions per file. </div>
-<div style="text-align: justify">
-* The only C standard library functions allowed are malloc, free and exit. Any use of functions like </div>
-
-`printf, puts, calloc, realloc etc… is forbidden`.</div>
-
-<div style="text-align: justify">
-	
-*You are allowed to use: `_putchar`. </div>
-
-<div style="text-align: justify">
-	
-*You don’t have to push [_putchar.c](https://github.com/holbertonschool/_putchar.c) , we will use our file. If you do it won’t be taken into account. </div>
-
-<div style="text-align: justify">
 	
 *In the following examples,`the main.c files are shown as examples`. </div>
 
@@ -72,24 +55,14 @@ Please visit the [Betty style](https://github.com/holbertonschool/Betty/wiki) fo
    your repo ( *if you do we won’t take them into account* ).</div>
 	
 <div style="text-align: justify">
-* We will use our own main.c files at compilation. Our main.c files might be different from the one shown in the examples. </div>
-<div style="text-align: justify">
-* The prototypes of all your functions and the prototype of the function _putchar should be included in your header file called </div>
-
-<div style="text-align: justify"> 
-
-`lists.h` </div>
-
-<div style="text-align: justify">
 	
 *Don’t forget to push your `header file`.</div>
 <div style="text-align: justify">
-* All your header files should be include guarded. </div>
-<div style="text-align: justify">
+
 
 ## Header File :file_folder:
 
-* [lists.h](./lists.h): Header file containing definitions and prototypes for all types
+* [holberton.h](./holberton.h): Header file containing definitions and prototypes for all types
 and functions written for the project.
 
 | Type/File                  | Definition/Prototype                                                             |
