@@ -68,7 +68,7 @@ and functions written for the project.
 
 | Type/File                  | Definition/Prototype                                                             |
 | -------------------------- | -------------------------------------------------------------------------------- |
-| `struct listint_s`         | <ul><li>`int n`</li><li>`struct listint_s *next`</li></ul>                       |
+| `struct complex`           | <ul><li>`double re`</li><li>`double im`</li><li>`struct listint_s *next`</li></ul>                       |
 | `typedef listint_t`        | `struct listint_s`                                                               |
 | `0-print_listint.c`        | `size_t print_listint(const listint_t *h);`                                      |
 | `1-listint_len.c`          | `size_t listint_len(const listint_t *h);`                                        |
