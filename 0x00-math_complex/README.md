@@ -19,8 +19,13 @@ Don't forget to fully meet the following development requirements. </div>
 
 [![M](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/70px-Logo_of_YouTube_%282015-2017%29.svg.png)](https://www.youtube.com/watch?v=SP-YJe7Vldo)
 
+[Modulus and Argument](https://www.youtube.com/watch?v=g5_ojBMubAg)
 
+[Operations ](https://math.mit.edu/~stoopn/18.031/complexnumbers.pdf)(Only from page 1 to page 4)
 
+[Absolute value & angle](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:complex/x9e81a4f98389efdf:complex-abs-angle/v/basic-complex-analysis)
+
+[Conjugates](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:complex/x9e81a4f98389efdf:complex-div/v/complex-conjugates)
 
 ## General :page_with_curl:
 <div style="text-align: justify">
