@@ -28,8 +28,7 @@ Don't forget to fully meet the following development requirements. </div>
 	
 `-Wall -Werror -Wextra -pedantic -std=gnu89`. </div>
 <div style="text-align: justify">
-* All your files should end with a new line. </div>
-<div style="text-align: justify">
+
 	
 *A `README.md` file, at the root of the folder of the project.</div>
 
@@ -41,24 +40,11 @@ Don't forget to fully meet the following development requirements. </div>
 
 | Project                    | Description                                                                      	     |
 | -------------------------- | ----------------------------------------------------------------------------------------------|
-| [0x00. Math - Complex](./0x00. Math - Complex):     | This project is devoted to do some basic operations in the real line and the complex plane.   |	                                                  |			       |											       |
-| `0x01. Math - Sequence`    | This project can help in the computation of the complexity of some famous algorithms.         |
+| [0x00. Math - Complex](https://github.com/Alexoat76/holbertonschool-math/tree/main/0x00-math_complex)     | This project is devoted to do some basic operations in the real line and the complex plane.   |	                                                  |			       |											       |
+| [0x01. Math - Sequence](https://github.com/Alexoat76/holbertonschool-math/tree/main/0x00-math_complex)    | This project can help in the computation of the complexity of some famous algorithms.         |
 	
 	
-	
-## Tasks :page_with_curl:
 
-* **0. Structure Complex**
-  * [0x00. Math - Complex](./0x00. Math - Complex)
-
-* **1. Conjugate**
-  * [1-conjugate.c](./1-conjugate.c): Write a `C function` that returns the `conjugate` of a given complex number.
-    
-`0x00. Math - Complex` 
-
-
-
-	
 
 ## Author(s):blue_book:
 
