@@ -2,10 +2,15 @@
 
 # 0x00. Math - Complex
 <div style="text-align: justify">
-In this project, you should to practice the use of Math - Complex in C. </div>
-<div style="text-align: justify">
-Don't forget to fully meet the following development requirements. </div>
-
+	
+In this project, you should to practice the use of
+	`Math - Complex` in C. 
+	
+Don't forget to fully meet the following development requirements.</div>
+	
+# 
+![Math](https://s3-ap-south-1.amazonaws.com/ricedigitals3bucket/AUPortalContent/2020/07/10101336/imgblogmaths3.jpg)
+	
 
 # Getting Started :running:
 
