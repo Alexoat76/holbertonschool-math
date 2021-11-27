@@ -2,10 +2,14 @@
 
 # Holberton School Math - Projects
 <div style="text-align: justify">
-In all projects, you should to practice the use of Math in C. </div>
+	
+In all projects, you should to practice the use of `Math in C`. </div>
+
 <div style="text-align: justify">
 Don't forget to fully meet the following development requirements. </div>
 
+#
+![Math_0](https://www.swinburne.edu.au/content/dam/media/study-areas/applied-mathematics-formulas-computer-iStock-636332456.jpg/_jcr_content/renditions/cq5dam.web.1280.720.jpeg)
 
 # Getting Started :running:
 
