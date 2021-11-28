@@ -45,7 +45,7 @@ Don't forget to fully meet the following development requirements. </div>
 | Project                    | Description                                                                      	     |
 | -------------------------- | ----------------------------------------------------------------------------------------------|
 | [0x00. Math - Complex](https://github.com/Alexoat76/holbertonschool-math/tree/main/0x00-math_complex)     | This project is devoted to do some basic operations in the real line and the complex plane.   |	                                                  |			       |											       |
-| [0x01. Math - Sequence](https://github.com/Alexoat76/holbertonschool-math/tree/main/0x00-math_complex)    | This project can help in the computation of the complexity of some famous algorithms.         |
+| [0x01. Math - Sequence](https://github.com/Alexoat76/holbertonschool-math/tree/main/0x01-math_sequence)   | This project can help in the computation of the complexity of some famous algorithms.         |
 	
 	
 
