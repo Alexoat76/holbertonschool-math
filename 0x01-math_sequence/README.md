@@ -9,7 +9,7 @@ In this project, you should to practice the use of
 Don't forget to fully meet the following development requirements.</div>
 	
 # 
-![Math](https://s3-ap-south-1.amazonaws.com/ricedigitals3bucket/AUPortalContent/2020/07/10101336/imgblogmaths3.jpg)
+![Fibo](https://www.sciencekindle.com/wp-content/uploads/2018/01/M_MathOfBeauty.jpg)
 	
 
 # Getting Started :running:
