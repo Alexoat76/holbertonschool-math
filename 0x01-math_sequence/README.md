@@ -16,6 +16,17 @@ Don't forget to fully meet the following development requirements.</div>
 
 ## Requirements :page_with_curl:
 
+### C
+
+Before doing this project, you need to know :
+<div style="text-align: justify">
+
+* `How to use structures`
+	
+<div style="text-align: justify">
+	
+* `How to use linked lists`
+
 ### Resources
 
 **Read or watch** :
@@ -59,81 +70,42 @@ Don't forget to fully meet the following development requirements.</div>
 
 Please visit the [Betty style](https://github.com/holbertonschool/Betty/wiki) for the full specifications of Betty coding and documentation styles.
 
-<div style="text-align: justify">
+
+## Header(s) File(s) :file_folder:
+
+* [heron.h](./heron.h): Header file containing definitions, structs and prototypes for `Tasks 0` 
+* [fibonacci.h](./fibonacci.h): Header file containing definitions, structs and prototypes for `Tasks 1`
 	
-*In the following examples,`the main.c files are shown as examples`. </div>
-
-<div style="text-align: justify">
-* You can use them to test your functions, but you don’t have to push them to
-	<div style="text-align: justify">
-		
-   your repo ( *if you do we won’t take them into account* ).</div>
-	
-<div style="text-align: justify">
-	
-*Don’t forget to push your `header file`.</div>
-<div style="text-align: justify">
-
-
-## Header File :file_folder:
-
-* [holberton.h](./holberton.h): Header file containing definitions and prototypes for all types
-and functions written for the project.
 
 | Type/File                  | Definition/Prototype                                                             |
 | -------------------------- | -------------------------------------------------------------------------------- |
-| `struct complex`           | <ul><li>`double re`</li><li>`double im`</li></ul>	                        |
-| `typedef complex`          | `struct complex`                                                                 |
-| `0-display.c`        	     | `void display_complex_number(complex c);`                                        |
-| `1-conjugate.c`            | `complex conjugate(complex c);`                                        		|
-| `2-modulus.c`              | `double modulus(complex c);`                                        		|
-| `3-argument.c`             | `double argument(complex c);`                                        		|
-| `4-addition.c`             | `void addition(complex c1, complex c2, complex *c3);`                            |
-| `5-substraction.c`         | `void substraction(complex c1, complex c2, complex *c3);`                        |
-| `6-multiplication.c`       | `void multiplication(complex c1, complex c2, complex *c3);`                      |	
-| `7-division.c`       	     | `void division(complex c1, complex c2, complex *c3);`                      	|
-| `8-complex.c`       	     | `void complex_from_mod_arg (double m, double arg, complex *c3);`                 |	
+| `0-heron.c`        	     | `t_cell *heron(double p, double x0);`                                            |
+| `1-fibonacci.c`            | `t_cell *Fibonnaci();` `double gold_number(t_cell *head);`                       |
+| `2-mandelbrot.c`           |                                     						|
+| `julia.c`                  |                                         						|
+	
 	
 	
 ## Tasks :page_with_curl:
 
-* **0. Structure Complex**
-  * [0-display.c](./0-display.c): Build the structure `complex` where a complex number `a + ib` is represented by two doubles.
-   	*Write a C function that `displays` the complex numbers.
+* **0. The Heron sequence**
+  * [0-heron.c](./0-heron.c): Write a C function that return the Heron sequence until having convergence with an error 
+	less or equal to `10^(-7)`.
+	* `You must use linked lists`.
 
-* **1. Conjugate**
-  * [1-conjugate.c](./1-conjugate.c): Write a `C function` that returns the `conjugate` of a given complex number.
+* **1. The Fibonacci sequence**
+  * [1-fibonacci.c](./1-fibonacci.c): Code the Fibonacci sequence until having a geometric behavior.
+	* `You must use linked lists`.
+	* You can use the library `<math.h>` in your code
     
 
-* **2. Modulus**
-  * [2-modulus.c](./2-modulus.c): Write a `C function` that returns the `modulus` of a given complex number.
+* **2. Mandelbrot’s Sets**
+  * [2-mandelbrot.c](./2-mandelbrot.c): Code the Mandelbrot’s set in a `PGM file`.
     
 	
-* **3. Argument**
-  * [3-argument.c](./3-argument.c): Write a `C function` that returns the `argument` of a given complex number.
+* **3. Julia’s Sets**
+  * [julia.c](./julia.c): Code the Julia’s Set in a `PGM file`.
     
-
-* **4. Addition**
-  * [4-addition.c](./4-addition.c): Write a `C function` that performs the `addition` operation to complex numbers.
-    
-
-* **5. Substraction**
-  * [5-substraction.c](./5-substraction.c): Write a `C function` that performs the `substraction` operation to complex numbers.
-   
-
-* **6. Multiplication**
-  * [6-multiplication.c](./6-multiplication.c): Write a `C function` that performs the `multiplication` operation to complex numbers.
-   
-
-* **7. Division**
-  * [7-division.c](./7-division.c): Write a `C function` that performs the `division` operation to complex numbers.
-  
-
-* **8. Real and imaginary**
-  * [8-complex.c](./8-complex.c): Write a `C function` that `update` the `real` and the `imaginary` parts of a complex number given its 
-	modulus and arguments.
-
-
 
 ## Tests :heavy_check_mark:
 
